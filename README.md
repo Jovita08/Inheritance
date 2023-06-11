@@ -34,7 +34,7 @@ Register No.: **212221240062**
 ```c#
 using System;
 
-namespace exp8
+namespace inheritance
 {
     public class tyre
     {
